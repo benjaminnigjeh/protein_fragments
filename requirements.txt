@@ -1,3 +1,4 @@
 pyteomics
 pandas
+streamlit
 -e .

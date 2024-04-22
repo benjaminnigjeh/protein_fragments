@@ -3,3 +3,6 @@ def hello():
 
 def goodbye():
     return("goodbye")
+
+def stay():
+    return("stay")
