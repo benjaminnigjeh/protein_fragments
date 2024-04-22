@@ -7,3 +7,5 @@
 def protein_fragment():
     return("this is all")
 
+def hello():
+    return("hello world")
