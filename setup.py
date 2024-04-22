@@ -5,5 +5,6 @@ setup(
     version="0.0.1",
     author="Ben Nigjeh",
     author_email="benjamin.nigjeh@gmail.com",
+    requires=["pyteomics", "pandas"],
     packages=find_packages()
 )
